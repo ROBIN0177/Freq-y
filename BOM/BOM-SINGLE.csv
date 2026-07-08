@@ -1,0 +1,15 @@
+Item,Description,Qty,Unit Price,Total,Vendor,Notes
+,=== AMAZON PARTS (CAD → USD) ===,,,,,
+1,"SPST On/Off Mini Boat Rocker Switch, AC 6A/250V 10A/125V, 2 Solder Lug, 2Pin Toggle, Snap-in, 15 Pcs",1,$8.99 CAD → $6.47 USD,$8.99 CAD → $6.47 USD,ZUPAYIPA / Amazon.ca,In Stock
+2,Li-Po Battery Pack 3.7V 1100mAh 603449 with JST Connector,1,$17.85 CAD → $12.85 USD,$17.85 CAD → $12.85 USD,A2BATT INC / Amazon.ca,In Stock; verify device polarity before use
+3,"Dual Band WiFi Antenna 2.4GHz/5GHz/5.8GHz MIMO, RP-SMA, Short",1,$13.99 CAD → $10.07 USD,$13.99 CAD → $10.07 USD,efagur / Amazon.ca,In Stock; for Furrion RV backup camera / router / repeater
+4,"2.8"" 240x320 SPI ILI9341 LCD TFT Touch Panel, Serial Port",1,$23.23 CAD → $16.73 USD,$23.23 CAD → $16.73 USD,Ninlyier / Amazon.ca,Only 3 left in stock
+,,,,,,
+,Amazon Parts Subtotal,,$64.06 CAD,$46.12 USD,,
+,Amazon Tax + Shipping,,$9.54 USD,$9.54 USD,,
+,,,,,,
+,=== OTHER SOURCES (USD) ===,,,,,
+,PCB Fabrication,,,$59.4 USD,PCB Vendor,
+,Digi-Key Components,,,$45.32 USD,Digi-Key,
+,,,,,,
+,=== GRAND TOTAL (USD) ===,,,$157.70999999999998 USD,,Includes Amazon tax/shipping converted to USD
