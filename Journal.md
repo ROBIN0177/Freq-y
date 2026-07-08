@@ -25,7 +25,7 @@ Schematic work was straightforward. Main challenge was real estate, I was missin
 ## DEVLOG 3 —  Case Design
 
 Decided to nail the case dimensions before locking the PCB size. Sourced the display on Amazon, settled on 6 mm side bezels for clean proportions, thick enough to look intentional, thin enough to stay stable. Added walls, cutouts, etc.
-<img width="725" height="514" alt="image" src="https://github.com/user-attachments/assets/711d7bd6-017f-410d-b4d7-3678d7108710" />
+<img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/9bd20872-e457-4a31-83ae-087b7f25b12f" />
 
 **Time: 1.2 hrs**
 
