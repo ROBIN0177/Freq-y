@@ -17,6 +17,7 @@ I ran into this myself: my home WiFi was getting choked by an unknown source. Tu
 
 <img width="576" height="780" alt="image" src="https://github.com/user-attachments/assets/8f7ba3e4-a7f1-468b-9ff9-a523ee3f16a5" />
 <img width="749" height="843" alt="image" src="https://github.com/user-attachments/assets/5c224a7a-d414-4ab0-85f6-43f12bcb1e2a" />
+<img width="1005" height="702" alt="image" src="https://github.com/user-attachments/assets/f81061be-d317-4d6e-ab74-329f72813cb4" />
 
 ---
 
