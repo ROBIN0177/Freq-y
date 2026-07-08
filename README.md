@@ -63,3 +63,9 @@ Freq-y/
 ## Special Thanks
 
 **Hack Club** — I couldn't have made this without it.
+
+
+## NOTE
+
+RF impedance was calculated to the nearest allowed mm. Any more would have severed and or created problems for other components!!
+Range is limited due to it not having exact RF impedance!!
