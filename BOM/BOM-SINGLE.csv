@@ -9,7 +9,7 @@ Item,Description,Qty,Unit Price,Total,Vendor,Notes
 ,Amazon Tax + Shipping,,$9.54 USD,$9.54 USD,,
 ,,,,,,
 ,=== OTHER SOURCES (USD) ===,,,,,
-,PCB Fabrication,,,$59.4 USD,PCB Vendor,
+,PCB Fabrication (PCBWay) ,,,$59.4 USD,PCB Vendor,
 ,Digi-Key Components,,,$45.32 USD,Digi-Key,
 ,,,,,,
 ,=== GRAND TOTAL (USD) ===,,,$157.70999999999998 USD,,Includes Amazon tax/shipping converted to USD
